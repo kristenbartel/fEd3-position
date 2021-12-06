@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    position: relative;
+    margin: auto;
+}
+.image {
+    max-width: 1200px;
+    margin: auto;
+}
+.text {
+    /* display: flex; */
+    position: absolute;
+    top: 30px;
+    left: 379px;
+    background-color: rgba(7, 92, 92, 0.31);
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-size: 6em;
+
+}
