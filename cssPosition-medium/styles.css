@@ -1,0 +1,30 @@
+header {
+    background-color: aquamarine;
+    /* position: fixed; */
+    /* uncomment for scrolling header */
+    margin: 0;
+    width: 650px;
+    padding: 10px;
+}
+
+div {
+    position: relative;
+}
+
+aside {
+    position: absolute;
+    padding-top: 35px;
+    height: 100vh;
+}
+
+.sidebar {
+    position: sticky;
+    top: 0;
+    padding-top: 20px;
+}
+
+main {
+    margin-left: 100px;
+    margin-top: 100px;
+    max-width: 500px;
+}
